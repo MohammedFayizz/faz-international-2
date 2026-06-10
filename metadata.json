@@ -1,0 +1,6 @@
+{
+  "name": "FAZ Portfolio",
+  "description": "High-fidelity, ultra-performance developer and designer portfolio with custom interactive modules, custom graphics charting, and micro-audio feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
